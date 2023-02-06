@@ -14,7 +14,6 @@ function TeacherForm() {
         { week_day: 0, from: '', to: '' }
     ])
 
-
     function addNewScheduleItem() {
         setScheduleItems([
             ...scheduleItems,
